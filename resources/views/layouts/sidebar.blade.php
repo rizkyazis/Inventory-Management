@@ -19,21 +19,21 @@
 
 </head>
 <body>
-<nav class="navbar bg-primary text-light ">
+<nav class="navbar bg-danger text-light ">
     <!-- Navbar content -->
     <div class="container-fluid pl-5 pr-5">
     </div>
 </nav>
-<div class="bg-primary" style="border-bottom-left-radius: 15px;border-bottom-right-radius: 15px; height: 175px">
+<div class="bg-danger" style="border-bottom-left-radius: 15px;border-bottom-right-radius: 15px; height: 175px">
     <div class="container-fluid  pl-5 pr-5 pt-3" style="width: 100%; min-height: 100%; top: 0%;left: 0%">
         <div class=" row">
             <div class="col-2 ">
                 <a href="/" class="text-decoration-none">
                     <div class="text-center mb-5" >
                         <center>
-                            <img class="bg-white p-3 mb-1 bg-white rounded" src="{{asset('images/ead.png')}}" alt="" style="width: 75px;height: 75px">
+                            <img class="bg-white p-3 mb-1 bg-white rounded" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.bisnis-cdn.com%2Fposts%2F2014%2F08%2F05%2F247847%2Flogo-sulut-tpidsulutorg--.jpg&f=1&nofb=1" alt="" style="width: 75px;height: 75px">
                         </center>
-                        <b class="text-light">EAD</b>
+                        <b class="text-light">TUP</b>
                         <p class="text-light">Inventory Management</p>
                     </div>
                 </a>
@@ -83,25 +83,25 @@
                         </a>
                     </div>
                     <div class="col-12 mt-3">
-                        <div class="p-3 mb-1 shadow-sm bg-white rounded " STYLE="font-size: 12px" >
+                        <div class="p-3 mb-1 shadow-sm bg-white rounded d-none" STYLE="font-size: 12px" >
                             <div class="row">
                                 <div class="col-3">
                                     NAME
                                 </div>
                                 <div class="col-8">
-                                    : RIZKY AZIS JAYASUTISNA
+                                    : CHARLI A. MARPAUNG
                                 </div>
                                 <div class="col-3">
                                     NIM
                                 </div>
                                 <div class="col-8">
-                                    : 1202181234
+                                    : 18024096
                                 </div>
                                 <div class="col-3">
                                     CLASS
                                 </div>
                                 <div class="col-8">
-                                    : SI-42-18
+                                    : 7-TI-3
                                 </div>
                             </div>
                         </div>

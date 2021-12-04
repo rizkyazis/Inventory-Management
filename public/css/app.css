@@ -10905,12 +10905,12 @@ a.text-dark:focus {
 
 .menu-item{
     background-color: white;
-    color:#5d0ed2;
+    color:#e3342f;
     text-decoration: none;
 }
 
 .menu-item-active{
-    background-color:#5d0ed2;
+    background-color:#e3342f;
     color: white;
 }
 

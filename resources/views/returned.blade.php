@@ -6,8 +6,8 @@
         Returned
     </h2>
     <table class="table mt-3">
-        <thead class="bg-secondary">
-        <tr>
+        <thead class="bg-danger">
+        <tr class="text-white">
             <th scope="col">#</th>
             <th scope="col">Item</th>
             <th scope="col">Name</th>
